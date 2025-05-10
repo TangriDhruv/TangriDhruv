@@ -65,4 +65,3 @@
 ### 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-tangri-02540b138/)
-- 💻 [GitHub](https://github.com/TangriDhruv)
