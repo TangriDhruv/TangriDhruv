@@ -5,7 +5,7 @@
 🎓 **Currently at:** Carnegie Mellon University (Master's in Information Systems Management - BIDA)  
 📍 **Based in:** Pittsburgh, PA, USA  
 💼 **Role:** Data Scientist | Formerly at KPMG (4+ yrs experience)  
-📧 **Email:** dtangri@andrew.cmu.edu  
+📧 **Email:** dhruv1998tangri@gmail.com 
 
 ---
 
